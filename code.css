@@ -1,0 +1,21 @@
+h1 {
+  border-color: blue;
+  border-width: .25em;
+  border-style: double;
+  }
+h2 {
+  border-color: orange;
+  border-width: 5px;
+  border-style: double;
+  }
+p {
+  border-color: none;
+  border-width: none;
+  border-style: none;
+}
+body {
+  background-image: url('https://cdn.crispedge.com/107ab0.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
